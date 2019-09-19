@@ -1,4 +1,4 @@
-package com.boniolo;
+package com.boniolo.config;
 
 import java.util.ArrayList;
 
